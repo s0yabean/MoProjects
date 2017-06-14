@@ -1,2 +1,8 @@
 # Mo's Projects
-This repository is a collection of independent projects. it is still under construction and I will add more projects over time
+Hi and Welcome,
+This repository is a collection of independent projects. I came to a realization that I need to have a platform to collect my work and that can presented to others, thus, I started this repository. Since this is new, it is still under construction and I will add more projects over time.
+
+Thank you for stopping by,
+best
+
+Mo
